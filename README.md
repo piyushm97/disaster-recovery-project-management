@@ -29,5 +29,11 @@ Owned the project lifecycle including scope definition, scheduling, risk mitigat
 
 ## Visual Artifacts
 ![Gantt Chart](visuals/gantt.png)
+
+## Additional Assets
+
+- Incident Scenario – detailed primary data center outage story and how the plan is activated (`/docs/Incident_Scenario.md`)
+- Risk Response Plan – concrete preventive and contingency actions mapped to each risk (`/docs/Risk_Response_Plan.md`)
+
 ![Risk Matrix](visuals/risk-matrix.png)
 ![RACI Matrix](visuals/raci.png)
